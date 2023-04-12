@@ -17,4 +17,4 @@
 > 
 > Лендинги или же проверить себя с помощью эталонного решения
 
-## [Мой "сайт"]()
+## [Мой "сайт"](https://github.com/AllIWantIsNotAvailable/GeekBrains_IntroductionToWebTechnologies/blob/main/seminars/Sem02_HTML_CSS/HomeWork/Project/index.html)
