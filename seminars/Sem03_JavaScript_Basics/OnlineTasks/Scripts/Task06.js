@@ -1,0 +1,1 @@
+alert(confirm('Are u ok?') ? 'fine' : 'go sleep')

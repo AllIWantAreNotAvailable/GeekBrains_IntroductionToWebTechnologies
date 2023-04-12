@@ -245,6 +245,10 @@ cython_debug/
 
 # System
 .DS_Store
+autoprefixer/
+bootstrap/
+icons/
 
 # Media
 *.png
+*.scss

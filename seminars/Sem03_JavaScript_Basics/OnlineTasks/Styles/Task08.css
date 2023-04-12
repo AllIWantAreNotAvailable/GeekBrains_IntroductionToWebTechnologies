@@ -1,0 +1,15 @@
+.light {
+    background-color: white;
+    color: white;
+}
+
+.dark {
+    background-color: darkgray;
+    color: darkgray;
+    font-family: cursive;
+}
+
+.Theme_button {
+    color: lightgray;
+    background-color: black;
+}
