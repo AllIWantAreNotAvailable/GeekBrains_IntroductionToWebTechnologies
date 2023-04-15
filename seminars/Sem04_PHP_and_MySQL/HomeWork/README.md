@@ -1,5 +1,5 @@
 # Задание №1:
-> [Ссылка]()
+> [Ссылка](https://github.com/AllIWantIsNotAvailable/GeekBrains_IntroductionToWebTechnologies/blob/main/seminars/Sem04_PHP_and_MySQL/HomeWork/index.html)
 
 # Задача №2:
 ## 2.1 Создание таблицы:
